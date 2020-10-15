@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.UIDesktop", "AgendaTeste\Agenda.UIDesktop.csproj", "{894A9919-1B85-4D54-898E-52147A0FD6CE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.DAL", "Agenda.DAL\Agenda.DAL.csproj", "{4B9FEF87-96F3-4985-BB46-D9F602491B57}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.DAL.Test", "Agenda.DAL.Test\Agenda.DAL.Test.csproj", "{CB4218D2-8A69-4157-A796-BF3E20C3CD6C}"
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{894A9919-1B85-4D54-898E-52147A0FD6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{894A9919-1B85-4D54-898E-52147A0FD6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{894A9919-1B85-4D54-898E-52147A0FD6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{894A9919-1B85-4D54-898E-52147A0FD6CE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4B9FEF87-96F3-4985-BB46-D9F602491B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4B9FEF87-96F3-4985-BB46-D9F602491B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B9FEF87-96F3-4985-BB46-D9F602491B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
